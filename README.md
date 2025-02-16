@@ -26,7 +26,7 @@ Check out the live demo: [Simple Weather App](https://nextjs-flask-weather-app.v
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/simple-weather-app.git
+git clone https://github.com/ashkangl/weather-app
 Navigate to the project directory:
 
 bash
