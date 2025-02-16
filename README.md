@@ -20,7 +20,7 @@ Styling: Tailwind CSS
 API: OpenWeather API
 
 # Demo
-Check out the live demo: Simple Weather App
+Check out the live demo: [Simple Weather App](https://nextjs-flask-weather-app.vercel.app/)
 
 # Getting Started
 Clone the repository:
