@@ -25,15 +25,15 @@ Check out the live demo: [Simple Weather App](https://nextjs-flask-weather-app.v
 # Getting Started
 Clone the repository:
 
-bash
+
 git clone https://github.com/ashkangl/weather-app
 Navigate to the project directory:
 
-bash
+
 cd simple-weather-app
 Install dependencies:
 
-bash
+
 # Backend dependencies
 pip install -r requirements.txt
 
